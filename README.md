@@ -1,3 +1,6 @@
+# Quasar_Stepper
+Small project for a co-worker
+
 # Quasar App (stepper)
 
 A Quasar Framework app
